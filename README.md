@@ -35,4 +35,4 @@ Los ejercicios guardados permanecen únicamente en `localStorage` del navegador 
 
 Herramienta con fines educativos e informativos. Los resultados dependen de los supuestos capturados y no constituyen asesoría financiera, legal ni de inversión.
 
-© LicitIA Labs
+© LicitIA Labs. 2026 Todos los Derechos Reservados LicitIa Bussines Mexico 
